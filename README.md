@@ -80,17 +80,27 @@ Eladin(엘라딘)
 
 ### 3-5. 페이지 별 화면
 
+
 |                                              |                                              |
 | -------------------------------------------- | -------------------------------------------- |
-| ![image](/uploads/8fb1ebf97b41df89fd9fbe875da1fe0d/image.png) | ![image](/uploads/2b487e4eab49751c7345ca6ca75e01ba/image.png) |
+| ![엘라딘_메인페이지](https://github.com/pansgraphy/Eladin/assets/95598010/412519b3-463f-4fda-8561-f0c04812d662) | ![엘라딘_회원가입](https://github.com/pansgraphy/Eladin/assets/95598010/875d7568-32ec-4492-a59f-7b0a79b87dd9)
+ |
 | 메인 페이지                                  | 회원가입 페이지                                |
-| ![image](/uploads/080db94a3c0dd6270fbd3ad8003ab43d/image.png) | ![image](/uploads/1c1897a1b7d828aa8e0a840772bc5630/image.png)                                             |
+| ![엘라딘_로그인](https://github.com/pansgraphy/Eladin/assets/95598010/bb402a4d-09ed-4278-b0ae-f313e4fecf4d)
+ | ![엘라딘_카테고리별](https://github.com/pansgraphy/Eladin/assets/95598010/305fa6a0-b083-42ad-90d6-29929d7df692)
+                                             |
 | 로그인 페이지                                | 카테고리별 도서 리스트 페이지                         |
-| ![image](/uploads/e3f82f2b0984f1fa8b2df5f084007319/image.png) | ![image](/uploads/68defb35ccb0e21a3056159394748a6d/image.png)                                             |
+| ![엘라딘_도서 상세페이지](https://github.com/pansgraphy/Eladin/assets/95598010/3889ec0e-1b9a-461a-bf71-586be257ed2e)
+ | ![엘라딘_장바구니](https://github.com/pansgraphy/Eladin/assets/95598010/934a9fef-01c3-41f9-8d0c-2949cd6240c9)
+                                             |
 | 도서 상세 정보 페이지                                | 장바구니 페이지                         |
-| ![image](/uploads/135b5d757cfabff0dc03278b8d572cd8/image.png) | ![image](/uploads/62a25db17190584bf671811ccd211d89/image.png)                                             |
+| ![엘라딘_주문페이지](https://github.com/pansgraphy/Eladin/assets/95598010/54fcac81-226b-464f-a640-feba05aea0f1)
+ | ![엘라딘_주문완료](https://github.com/pansgraphy/Eladin/assets/95598010/9f5bec17-d72b-4e64-94c7-219406364c6d)
+                                             |
 | 주문 페이지(장바구니 페이지 하단)                                | 주문 완료 모달                         |
-| ![image](/uploads/6a36418e0032e1e5bff5cc4811641cb0/image.png) | ![image](/uploads/ea71b33ceb604664138bcf62f98a644f/image.png)                                             |
+| ![엘라딘_마이페이지](https://github.com/pansgraphy/Eladin/assets/95598010/870d5ac3-2709-4edd-8a47-c1dc0a8b36e1)
+ | ![엘라딘_관리자페이지](https://github.com/pansgraphy/Eladin/assets/95598010/2327a3d7-6780-4825-9bfd-493badc87e3f)
+                                             |
 | 마이페이지                                | 관리자페이지                         |
 
 <br />
@@ -103,13 +113,15 @@ Eladin(엘라딘)
 
 |                                                                                                                   Javascript                                                                                                                    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="[https://w.namu.la/s/18f590719ba62222718f1a68efcad20118c422b146650c97162d782ef9995d28326d1011cfb37595d9c60d66a05b343556e520204383d4429456fb54ca6bbf5af4478dcda8d69b01f1ff11d5ff591da7589496b4d6b76b740c744af82c8786c9](https://i.namu.wiki/i/Ser7cUz0d8o-_Xqf1ZUjHhzKV3Fns4UYKNqTMZEC8lDJnFwbZtm6MgUVxo01jHGgTX6pXPxCZPKmQ7Ii6CAUIHBD66yDpassZpwk4H27p_of7yeWeQkWdQNyUK-u8ZqIuRMpcy97SK1wwlVvG_4NXA.svg)" width="100px"/> |
+| <img src="![js](https://github.com/pansgraphy/Eladin/assets/95598010/95d216a4-85e9-4615-9ee8-6a968472ff3d)
+" width="100px"/> |
 
 ### 4-2. FE
 
 |                               Bulma                               |                                     LocalStorage                                     |                                                                                                                 SessionStorage                                                                                                                  |
 | :---------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://bulma.io/images/bulma-logo.png" width="100px"/> | <img src="https://gyumin-kim.github.io/assets/img/local-storage.jpg" width="100px"/> | <img src="https://w.namu.la/s/6f8695350c52d8a6f07a30787fdd07ed65e77e010c16732832924d0effa75207dccdd972b8c7f5b9e7077c006e48cadde42f66172c11432a3c92e4407b4fcfdcc040e36fb74b8ec45f9aa61f910ba06893a395fc4ff48acf6711ccfdae2761c3" width="100px"/> |
+| <img src="https://bulma.io/images/bulma-logo.png" width="100px"/> | <img src="https://gyumin-kim.github.io/assets/img/local-storage.jpg" width="100px"/> | <img src="![세션스토리지](https://github.com/pansgraphy/Eladin/assets/95598010/c7a49391-71fa-4d9c-a0fa-c14b04ecdc2c)
+" width="100px"/> |
 
 ### 4-3. BE
 
@@ -123,7 +135,8 @@ Eladin(엘라딘)
 
 ### 5-1. 인프라 구조
 
-![image](/uploads/8641e64efcb2892e86fcd1bf11630892/image.png)<br />
+![엘라딘_인프라구조](https://github.com/pansgraphy/Eladin/assets/95598010/dcdb579c-ccba-49ec-982c-7e0dbae53751)
+<br />
 
 ### 5-2. 폴더 구조
 
